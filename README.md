@@ -1,2 +1,6 @@
 # TARS
-Tools for CRs simulation
+
+Tools for astronomical radiation simulations
+=====================
+
+
