@@ -1,8 +1,8 @@
-## TARS - Tool for Astronomical Radiation Simulation <img src="http://www.esa.int/esalogo/images/downloads/Logo_Fingerprint/Office_presentation/03_logo_dark_blue.bmp" width="150" align=right>
+## TARS - Tool for Astronomical Radiation Simulation <img src="http://www.esa.int/esalogo/images/downloads/Logo_Fingerprint/Office_presentation/03_logo_dark_blue.bmp" width="200" align=right>
 
 A transient event simulator for astronomical CCDs
 
-![soho_part](images/soho_part.gif)
+<img src="images/soho_part.gif" align=center>
 
 ##### More About TARS:
 - [Validation of a CCD cosmic ray event simulator against Gaia in-orbit data, *SPIE 2018*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10709/1070919/Validation-of-a-CCD-cosmic-ray-event-simulator-against-Gaia/10.1117/12.2314090.short)
