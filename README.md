@@ -1,4 +1,4 @@
-## TARS - Tool for Astronomical Radiation Simulation <img src="http://www.esa.int/esalogo/images/downloads/Logo_Fingerprint/Office_presentation/03_logo_dark_blue.bmp" width="150" align=right >
+## TARS - Tool for Astronomical Radiation Simulation
 
 A transient event simulator for astronomical CCDs
 
